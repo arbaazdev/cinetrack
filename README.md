@@ -1,1 +1,3 @@
 # cinetrack
+
+**CineTrack** is your ultimate movie companion, designed to help you easily manage and organize your film-watching experience. With CineTrack, you can mark movies as favorites, track what you've already watched, and build your personalized watchlist. Whether you're a casual viewer or a cinephile, CineTrack ensures you'll never lose track of the movies that matter to you. Simplify your cinematic journey with a platform that keeps your movie collection at your fingertips, making your next film choice a breeze.
